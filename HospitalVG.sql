@@ -1,6 +1,7 @@
 -- drop database BDHospital
 --use correlativo
 --Hola Esta es la prueba de conexion de GCP 
+--Hola Que tal 
 create database BDHospital
 go
 
